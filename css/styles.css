@@ -1,6 +1,5 @@
 /* GLOBAL STYLES
 ======================== */
-
 *, *:before, *:after {
   box-sizing: border-box;
   /*border: 1px solid red;*/
@@ -132,6 +131,14 @@ a:visited {
   display: block;
   height: 400px;
 }
+
+#perla-yates-cover {
+  background-image: url("http://i.imgur.com/sn8iuwp.jpg");
+}
+#perla-yates-card {
+  background-image: url("http://i.imgur.com/iuDuwtB.jpg ");
+}
+
 #juan-rivera-cover {
  background-image: url("https://learn-verified.s3.amazonaws.com/juan-rivera-cover.jpg");
 }
